@@ -23,6 +23,7 @@ local plugins = {
         "tailwindcss-language-server",
         "typescript-language-server",
         "html-lsp",
+        "css-lsp",
       }
     }
   },
