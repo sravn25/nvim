@@ -24,9 +24,6 @@ local plugins = {
         "typescript-language-server",
         "html-lsp",
         "css-lsp",
-        "gci",
-        "golangci-lint",
-        "golangci-lint-langserver",
         "gopls",
       }
     }
